@@ -1,0 +1,37 @@
+Inicia-se a descrição deste perímetro no vértice FTR6 M-060, de coordenadas N
+9.069.744,60m e E 698.916,04m; situado no limite da faixa de domínio da Linha Férrea,
+Cerca; deste, segue confrontando com Linha Férrea, com os seguintes azimutes e
+distâncias: 109°30'22" e 378,91 m até o vértice FTR6 M-059, de coordenadas N
+9.069.618,08m e E 699.273,20m; 175°48'05" e 5,05 m até o vértice FTR6 M-056, de
+coordenadas N 9.069.613,04m e E 699.273,57m; Cerca; deste, segue confrontando com a
+faixa de domínio da estrada municipal, com os seguintes azimutes e distâncias: 285°26'19"
+e 152,03 m até o vértice FTR6M-057, de coordenadas N 9.069.653,51m e E 699.127,03m;
+183°25'00" e 10,74 m até o vértice FTR6 M-054, de coordenadas N 9.069.642,79m e E
+699.126,39m; Cerca; deste, segue confrontando com Faz. Umburanas Mat. 5066, com os
+seguintes azimutes e distâncias: 172°12'37" e 554,46 m até o vértice FTR6 M-053, de
+coordenadas N 9.069.093,45m e E 699.201,54m; 167°33'36" e 14,72 m até o vértice FTR6
+M-052, de coordenadas N 9.069.079,08m e E 699.204,71m; 173°38'18" e 340,70 m até o
+vértice FTR6 M-046, de coordenadas N 9.068.740,48m e E 699.242,46m; 261°05'09" e
+146,43 m até o vértice FTR6 M-047, de coordenadas N 9.068.717,79m e E 699.097,80m;
+172°22'24" e 2.947,58 m até o vértice FTR6 M-045, de coordenadas N 9.065.796,29m e E
+699.489,00m; Cerca; deste, segue confrontando com Estrada Vicinal (Municipal), com os
+seguintes azimutes e distâncias: 170°59'07" e 555,00 m até o vértice FTR6 M-069, de
+coordenadas N 9.065.248,15m e E 699.575,96m; 271°51'50" e 246,90 m até o vértice
+FTR6M-042, de coordenadas N 9.065.256,18m e E 699.329,19m; Cerca; deste, segue
+confrontando com Faz. Cacimba do Gado Mat. 1455, com os seguintes azimutes e
+distâncias: 344°05'41" e 270,32 m até o vértice FTR6 M-043, de coordenadas N
+9.065.516,15m e E 699.255,11m; 352°32'34" e 249,26 m até o vértice FTR6 M-044, de
+coordenadas N 9.065.763,30m e E 699.222,76m; 352°09'57" e 2.949,57 m até o vértice
+FTR6M-049, de coordenadas N 9.068.685,34m e E 698.820,71m; 83°45'01" e 224,50 m até
+o vértice FTR6 M-048, de coordenadas N 9.068.709,78m e E 699.043,88m; 353°24'07" e
+299,55 m até o vértice FTR6M-050, de coordenadas N 9.069.007,35m e E 699.009,46m;
+353°33'37" e 44,49 m até o vértice FTR6 M-051, de coordenadas N 9.069.051,56m e E
+699.004,47m; 352°53'16" e 648,64 m até o vértice FTR6 M-055, de coordenadas N
+9.069.695,21m e E 698.924,16m; 348°50'48" e 12,20 m até o vértice FTR6 M-058, de
+coordenadas N 9.069.707,18m e E 698.921,80m; 351°14'57" e 37,86 m até o vértice FTR6
+M-060, ponto inicial da descrição deste perímetro. Todas as coordenadas aqui descritas
+estão georreferenciadas ao Sistema Geodésico Brasileiro, a partir da estação ativa da
+RBMC de Brasilia , de coordenadas N m e E m, e encontram-se representadas no Sistema
+U T M, referenciadas ao Meridiano Central nº 39°00', fuso -24, tendo como datum oMEMORIAL DESCRITIVO
+SIRGAS2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano
+de projeção U T M.
